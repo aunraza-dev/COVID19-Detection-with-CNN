@@ -12,7 +12,7 @@ Created an intuitive Graphical User Interface (GUI) using (Tkinter) to enable ea
 ## Binary Classification: 
 The system performs binary classification, distinguishing between COVID-19 positive and negative cases based on learned features extracted from X-ray images.
 
-# Usage
+# Work Flow
 ## Data Preparation: 
 Gathered and preprocessed X-ray images from Kaggle.
 ## Model Training: 
