@@ -6,15 +6,15 @@ The rapid spread of COVID-19 has highlighted the necessity for efficient diagnos
 
 # Features
 ## CNN Model: 
-Developed and trained a Convolutional Neural Network using Python and popular deep learning libraries (e.g., TensorFlow, PyTorch, Keras) to analyze X-ray images for COVID-19 detection.
+Developed and trained a Convolutional Neural Network using Python and popular deep learning library (Keras) to analyze X-ray images for COVID-19 detection.
 ## GUI Interface: 
-Created an intuitive Graphical User Interface (GUI) using [insert GUI toolkit/library name] to enable easy interaction with the trained model. Users can upload X-ray images and get real-time predictions regarding COVID-19 presence.
+Created an intuitive Graphical User Interface (GUI) using (Tkinter) to enable easy interaction with the trained model. Users can upload X-ray images and get real-time predictions regarding COVID-19 presence.
 ## Binary Classification: 
 The system performs binary classification, distinguishing between COVID-19 positive and negative cases based on learned features extracted from X-ray images.
 
 # Usage
 ## Data Preparation: 
-Gathered and preprocessed X-ray images from Kaggle link ().
+Gathered and preprocessed X-ray images from Kaggle.
 ## Model Training: 
 Developed and trained the CNN model using labeled X-ray images, optimizing for accuracy and robustness.
 ## GUI Integration: 
@@ -25,5 +25,5 @@ Users can upload X-ray images through the GUI, and the system predicts whether t
 # Technologies Used
 1. Python
 2. Convolutional Neural Networks (CNN)
-3. TensorFlow / PyTorch / Keras
+3. Deep Learning Framework: Keras
 4. Tkinter for GUI
